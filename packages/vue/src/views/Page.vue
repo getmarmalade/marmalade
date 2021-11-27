@@ -1,3 +1,3 @@
 <template lang='pug'>
-  div Home
+  div Page
 </template>
